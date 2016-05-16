@@ -1,0 +1,8 @@
+*** Warning: NVM Store settings not found. Either a CS file was not provided or the settings are not defined in the CS file.
+Default configuration is: 
+NVM Store Start Address: 0xf000 
+NVM Store Size:          0x0080 ***
+------------------------------0x00000000
+|       Application  (6020 words)      |
+------------------------------0x00002f08
+
